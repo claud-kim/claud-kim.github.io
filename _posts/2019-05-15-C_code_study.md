@@ -10,8 +10,13 @@ tags:
   - c/c++
 ---
 
-
-# Exper study
+//#define DEBUG
+#ifdef DEBUG
+#define debug   printf
+#else
+#define debug(...)
+#endif
+# Expert study
 selflink : https://subinium.github.io/euler/
 
 ```cpp
