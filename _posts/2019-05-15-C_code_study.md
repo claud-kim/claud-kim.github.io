@@ -1,6 +1,6 @@
 ---
 title: "expert c/c++"
-date: //2019-05-15T14:44:00+09:00
+date: 2019-05-15T14:44:00+09:00
 excerpt_separator: "<!--more-->"
 categories:
   - coding
